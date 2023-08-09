@@ -26,7 +26,7 @@ if (signo.toLowerCase() == "escorpião") {
 
 // há muitas formas de se usar o recurso prompt
 var sign = window.prompt(); // abrir uma janela de promtpt em branco
-var sign = prompt(); //  abrir uma janela de promtpt em branco
+var sign = prompt(); //  abrir uma janela de prompt em branco
 var sign = window.prompt("Você está se sentindo com sorte"); // abrir uma janela com o texto "Você está se sentindo com sorte"
 var sign = window.prompt("Você está se sentindo com sorte", "certamente"); // abrir uma janela com o texto "Você está se sentindo com sorte" e com o valor padrão "certamente"
 ```
